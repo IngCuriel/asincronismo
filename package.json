@@ -1,0 +1,19 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en javaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desarrolloCuriel/asincronismo.git"
+  },
+  "author": "Eleazar Curiel Monjaraz eleazar-00@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desarrolloCuriel/asincronismo/issues"
+  },
+  "homepage": "https://github.com/desarrolloCuriel/asincronismo#readme"
+}
