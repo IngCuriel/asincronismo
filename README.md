@@ -20,3 +20,7 @@ Es una funcion que al crearlo le pasamos una segunda función.
 ## Promesas
 
 Es algo que va a suceder no se cuando pero va a suceder.
+
+# Async y Await
+
+Es implementado en ES7, nuevo enfoque, garantiza, es preferible sobre las promesas ya que hace que nuestro coadigo se comporte como sincrono
